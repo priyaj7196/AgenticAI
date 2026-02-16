@@ -1,0 +1,14 @@
+# Blog Writer — Core dependencies
+langgraph
+langchain-openai
+langchain-community
+langchain-core
+openai
+pydantic
+python-dotenv
+streamlit
+httpx
+pandas
+
+# Image generation (Gemini)
+google-genai
